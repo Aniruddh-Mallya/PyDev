@@ -21,9 +21,8 @@ Since the program make use the Python library 'simplegui', that's available only
 We recommend using the below URL to directly access the program on CodeSkulptor. For best experience, Chrome browser is recommended. 
 https://py2.codeskulptor.org/#user48_PJCZaD5pIi_0.py \
 Alternatively the code from 'Pong.py' can be copied and pasted on the official CodeSkulptor website, https://py2.codeskulptor.org/ as well. \
-To execute the program, we click on 'Run' on Codeskulptor. This opens up a new UI window.
-\
-\
+To execute the program, we click on 'Run' on Codeskulptor. This opens up a new UI window.\\\
+
 
 ## 2. PyHangmanGame : 
 
