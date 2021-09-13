@@ -1,11 +1,7 @@
 # Python Application Development (PyDev)
 
-## 1. PyHangmanGame : 
 
-This is a simple game of Hangman, wherein one has to arrive at a word by means of guessing the correct set of letters, in a limited number of moves.
-On running the code in any of the Python interpreters, we must enter the 'No of players' and 'No of computers', followed by entering one letter at a time and pressing 'Enter'. The code is available as 'PyHangmanGame.py'
-
-## 2. Pong : 
+## 1. Pong : 
 
 ### Intro
 In this project, we build a version of Pong, one of the first arcade video games (1972). While Pong is not particularly exciting compared to today's video games, it  still kind of a game that one can play and have some fun with. 
@@ -31,3 +27,7 @@ Alternatively the code from 'Pong.py' can be copied and pasted on the official C
 To execute the program, we click on 'Run' on Codeskulptor. This opens up a new UI window.
 
 
+## 2. PyHangmanGame : 
+
+This is a simple game of Hangman, wherein one has to arrive at a word by means of guessing the correct set of letters, in a limited number of moves.
+On running the code in any of the Python interpreters, we must enter the 'No of players' and 'No of computers', followed by entering one letter at a time and pressing 'Enter'. The code is available as 'PyHangmanGame.py'
