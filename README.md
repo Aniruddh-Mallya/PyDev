@@ -1,4 +1,4 @@
-# Python Application Development, PyDev
+# Python Application Development (PyDev)
 
 ## 1. PyHangmanGame : 
 
