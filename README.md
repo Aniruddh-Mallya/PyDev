@@ -24,7 +24,7 @@ Alternatively the code from 'Pong.py' can be copied and pasted on the official C
 To execute the program, we click on 'Run' on Codeskulptor. This opens up a new UI window.
 \
 \
-\
+
 ## 2. PyHangmanGame : 
 
 This is a simple game of Hangman, wherein one has to arrive at a word by means of guessing the correct set of letters, in a limited number of moves.
