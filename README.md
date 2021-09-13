@@ -21,10 +21,11 @@ To start a new game, we click on 'Start new game'.
 To resume play after gaining/losing a point, click on 'P'. 
 
 ### Execution
-Since the program make use the Python library 'simplegui' available only on CodeSkulptor, we recommend running 'Pong.py' on the official CodeSkulptor website on any browser (preferably Chrome). The link for the website is https://py2.codeskulptor.org/
 
-Alternatively, click on the below link to directly access the program on CodeSkulptor.
+Since the program make use the Python library 'simplegui' available only on CodeSkulptor. The recommended browser is Chrome/Safari.
+Click on the below link to directly access the program on CodeSkulptor.
 https://py2.codeskulptor.org/#user48_PJCZaD5pIi_0.py
+Alternatively the code from 'Pong.py' can be copied and pasted on the official CodeSkulptor website, https://py2.codeskulptor.org/
 
 To execute the program, we click on 'Run' on Codeskulptor. This opens up a new UI window.
 
