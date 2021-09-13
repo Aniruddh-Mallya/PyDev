@@ -22,10 +22,12 @@ To resume play after gaining/losing a point, click on 'P'.
 
 ### Execution
 
-Since the program make use the Python library 'simplegui' available only on CodeSkulptor. The recommended browser is Chrome/Safari.
-Click on the below link to directly access the program on CodeSkulptor.
+Since the program make use the Python library 'simplegui', that's available only on CodeSkulptor, we cannot directly implement it using  any Python Intrepreter or IDE.
+We recommend using the below URL to directly access the program on CodeSkulptor. For best experience, Chrome browser is recommended. 
 https://py2.codeskulptor.org/#user48_PJCZaD5pIi_0.py
 
+Alternatively the code from 'Pong.py' can be copied and pasted on the official CodeSkulptor website, https://py2.codeskulptor.org/ as well.
+
 To execute the program, we click on 'Run' on Codeskulptor. This opens up a new UI window.
-Alternatively the code from 'Pong.py' can be copied and pasted on the official CodeSkulptor website, https://py2.codeskulptor.org/
+
 
