@@ -34,9 +34,9 @@ This is a single-player game where te player controls a Spaceship using certain 
 
 #### Keys
 - To start the game, we left-click on 'Start new game'.
-- The keys to thrust the Spaceship forward is 'W' or the 'up-arrow'.
-- To rotate the spaceship clockwise we use 'A' or 'left-arrow' key.
-- Likewise to rotate the spaceship anti-clockwise we use 'D' or 'right-arrow' button.
+- To thrust the Spaceship forward we use 'W' or the 'up-arrow' key.
+- To rotate the spaceship clockwise we use 'A' or the 'left-arrow' key.
+- Likewise to rotate the spaceship anti-clockwise we use 'D' or the 'right-arrow' key.
 - To shoot missiles, fire the 'Space-bar' key.
 
 #### Execution
