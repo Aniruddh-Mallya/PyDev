@@ -13,7 +13,7 @@ There are two players, and each player controls a paddle using certain keys. We 
 #### Keys
 - To start the game, we left-click on 'Start new game'.
 - The keys for 'Player-1' to move the paddle up and down are 'W' and 'S' respectively.
-- Likewise, 'Player-2' moves the paddles up and down using the 'upper arrow' and 'lower arrow' respectively. 
+- Likewise, 'Player-2' moves the paddles up and down using the 'up-arrow' and 'down-arrow' respectively. 
 - To resume play after gaining/losing a point, click on 'P'. 
 
 #### Execution
