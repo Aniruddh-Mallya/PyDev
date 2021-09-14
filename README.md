@@ -24,28 +24,6 @@ Alternatively the code from 'Pong.py' can be copied and pasted on the official C
 To execute the program, we click on 'Run' on Codeskulptor. This opens up a new UI window.<br /><br />
 
 
-## 2. Blackack: 
-
-#### Intro
-I built a 2D space game RiceRocks that is inspired by the classic arcade game Asteroids (1979). Asteroids is a relatively simple game by today's standards, but was still immensely popular during its time. In the game, the player controls a Spaceship. Large asteroids spawn randomly on the screen with random velocities. The player's goal is to destroy these asteroids before they strike the player's ship.
-
-#### Rules
-This is a single-player game where te player controls a Spaceship using certain keys. The Spaceship is controlled via four buttons: two buttons that rotate the spaceship clockwise or counterclockwise (independent of its current velocity), a thrust button that accelerates the ship in its forward direction and a fire button that shoots missiles. It's programmed to keep track of the score and lives remaining.
-
-#### Keys
-- To start the game, we left-click on 'Start new game'.
-- To thrust the Spaceship forward we use 'W' or the 'up-arrow' key.
-- To rotate the spaceship clockwise we use 'A' or the 'left-arrow' key.
-- Likewise to rotate the spaceship anti-clockwise we use 'D' or the 'right-arrow' key.
-- To shoot missiles, fire the 'Space-bar' key.
-
-#### Execution
-Since the program make use the Python library 'simplegui', that's available only on CodeSkulptor, we cannot directly implement it using  any Python Intrepreter or IDE.\
-We recommend using the below URL to directly access the program on CodeSkulptor. For best experience, Chrome or Firefox is recommended. 
-https://py2.codeskulptor.org/#user48_XFR0nVUQff_0.py \
-Alternatively the code from 'Space_Wars.py' can be copied and pasted on the official CodeSkulptor website, https://py2.codeskulptor.org/ as well. \
-To execute the program, we click on 'Run' on Codeskulptor. This opens up a new UI window.<br /><br />
-
 ## 2. Space Wars: 
 
 #### Intro
