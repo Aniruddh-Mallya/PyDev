@@ -4,11 +4,10 @@
 ## 1. Pong : 
 
 ### Intro
-In this project, we build a version of Pong, one of the first arcade video games (1972). While Pong is not particularly exciting compared to today's video games, it  still kind of a game that one can play and have some fun with. 
-Pong is played on a rectangular table. We have a ball that's moving in a straight line and it bounces off the walls in a predictable manner, using basic physics. 
+In this project, I built a version of the game Pong, one of the first arcade video games (1972). While Pong is not exciting compared to today's video games, it still the game that one can play and have some fun with. It's played on a rectangular table. We have a ball that's moving in a straight line and it bounces off the walls predictably, using basic physics. 
 
 ### Rules
-There are two players, and each player controls a paddle using certain keys. We can't move it left and right, we can only move it up and down. On starting the game, the ball moves around on the table. It bounces on the top and bottom walls. When it strikes either of the paddles, it bounces back as well. However, if it misses the paddle & strikes the left gutter, 'Player-2' gets a point. Vice-versa, if it strikes the right gutter, 'Player-1' steals a point. When any player loses a point, the ball stops and positions itself to the centre of the board. The game ends when one of the player manages to score 10 points.
+There are two players, and each player controls a paddle using certain keys. We can't move it left and right, we can only move it up and down. On starting the game, the ball moves around on the table. It bounces on the top and bottom walls. When it strikes either of the paddles, it bounces back as well. However, if it misses the paddle & strikes the left gutter, 'Player-2' gets a point. Vice versa, if it strikes the right gutter, 'Player-1' steals a point. When any player loses a point, the ball stops and positions itself in the centre of the board. The game ends when one of the player scores 10 points.
 
 ### Keys
 - To start the game, we left-click on 'Start new game'.
@@ -27,10 +26,10 @@ To execute the program, we click on 'Run' on Codeskulptor. This opens up a new U
 ## 2. Space Wars: 
 
 ### Intro
-The 2D space game Space Wars is inspired by the classic arcade game Asteroids (1979). It's simple game by today's standards, but was still immensely popular during its time. In the game, the player controls a Spaceship. Large asteroids spawn randomly on the screen with random velocities. The player's goal is to destroy these asteroids before they strike the player's ship.
+The 2D space game Space Wars is inspired by the classic arcade game Asteroids (1979). It's a simple game by today's standards, but was still immensely popular during its time. In the game, the player controls a spaceship. Large asteroids spawn randomly on the screen with random velocities. The player's goal is to destroy these asteroids before they strike the player's ship.
 
 ### Rules
-This is a single-player game where te player controls a Spaceship using certain keys. The Spaceship is controlled via four buttons: two buttons that rotate the spaceship clockwise or counterclockwise (independent of its current velocity), a thrust button that accelerates the ship in its forward direction and a fire button that shoots missiles. It's programmed to keep track of the score and lives remaining.
+This is a single-player game where the player controls a spaceship using certain keys. The Spaceship is controlled via four buttons: two buttons that rotate the spaceship clockwise or counterclockwise (independent of its current velocity), a thrust button that speeds up the ship in its forward direction and a fire button that shoots missiles. It's programmed to keep track of the score and lives remaining.
 
 ### Keys
 - To start the game, we left-click on 'Start new game'.
